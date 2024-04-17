@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FinchNie
 - 👀 I’m interested in deep learning and graph data analysis.
-- 🌱 I’m currently learning deep learning and Javaweb.
 
 
 <!---
